@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "php-7",
+    "name": "Scholex",
     "builds": [
         { "src": "*.php", "use": "@now/php" }
     ]
